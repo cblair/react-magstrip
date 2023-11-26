@@ -1,8 +1,8 @@
 {
-  "name": "react-magstrip",
+  "name": "react-magstripe",
   "version": "1.0.0",
   "description": "A react component for reading magstrip data from a USB mag strip like the MSR90 via the virtual keyboard and calling back with card data",
-  "main": "src/MagStrip.js",
+  "main": "src/MagStripe.js",
   "scripts": {
     "test": "jest --collect-coverage",
     "test:dev": "jest --watch --collect-coverage",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cblair/react-magstrip.git"
+    "url": "git+https://github.com/cblair/react-magstripe.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   "author": "Colby Blair",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cblair/react-magstrip/issues"
+    "url": "https://github.com/cblair/react-magstripe/issues"
   },
-  "homepage": "https://github.com/cblair/react-magstrip#readme",
+  "homepage": "https://github.com/cblair/react-magstripe#readme",
   "dependencies": {
     "@babel/preset-env": "^7.23.3",
     "@babel/preset-react": "^7.23.3",
